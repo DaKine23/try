@@ -1,9 +1,9 @@
-# try [![GoDoc](https://godoc.org/github.com/matryer/try?status.svg)](https://godoc.org/github.com/matryer/try) [![Go Report Card](https://goreportcard.com/badge/github.com/matryer/try)](https://goreportcard.com/report/github.com/matryer/try)
+# try [![GoDoc](https://godoc.org/github.com/DaKine23/try?status.svg)](https://godoc.org/github.com/DaKine23/try) [![Go Report Card](https://goreportcard.com/badge/github.com/DaKine23/try)](https://goreportcard.com/report/github.com/DaKine23/try)
 
-Idiomatic Go retry package. Thanks to [@rowland](https://github.com/rowland) for code review.
+Fork of Idiomatic Go retry package from [@matryer]. Thanks to [@rowland](https://github.com/rowland) for code review.
 
 ```
-go get gopkg.in/matryer/try.v1
+go get gopkg.in/DaKine23/try.v1
 or
 drop gopkg.in/matryer/try.v1
 ```
