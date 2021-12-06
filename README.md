@@ -3,13 +3,8 @@
 Fork of Idiomatic Go retry package from [@matryer]. Thanks to [@rowland](https://github.com/rowland) for code review.
 
 ```
-go get gopkg.in/DaKine23/try.v1
-or
-drop gopkg.in/matryer/try.v1
+go get github.com/DaKine23/try
 ```
-
-* Learn more about [Drop](https://github.com/matryer/drop)
-
 ### Usage
 
 Just call `try.Do` with the function you want to retry in the event of an error:
