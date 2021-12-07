@@ -82,3 +82,7 @@ try.MaxRetries = 20
 ```
 
 To see if a `Do` operation failed due to reaching the limit, you can check the `error` with `try.IsMaxRetries(err)`.
+
+#### New TimesTry struct
+
+added an example in samples/exponential to play with this
